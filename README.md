@@ -1,6 +1,6 @@
 # fiber-sqlc-example
 [![Go](https://img.shields.io/badge/go-1.20-blue.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/dl/)
-
+> #### 🎯 Contribute to fiber [recipes](https://github.com/gofiber/recipes/tree/master/sqlc)
 > #### 🎯 docker-compose, fiber, sqlc (postgresql) 를 사용한 project example 입니다.
 > #### 🎯 [sqlc](https://github.com/sqlc-dev/sqlc) + [fiber](https://github.com/gofiber/fiber) Project Example
 
